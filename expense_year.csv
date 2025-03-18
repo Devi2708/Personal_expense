@@ -1,0 +1,353 @@
+Date,Month,Category,Payment_Mode,Discription,Amount,CashBack
+2024-01-01,Jan,School fees,Cash,Fees for School,2172.6,0
+2024-01-03,Jan,Loan amount,Netbanking,Housing loan paid,389.8,0
+2024-01-03,Jan,Health & Medicine,Credit card,Hospitalization,2959.6,3.37
+2024-01-03,Jan,Loan amount,Debit card,Housing loan paid,923.76,4.64
+2024-01-05,Jan,Shopping,Cash,Toys/Gifts Purchase,1837.85,0
+2024-01-05,Jan,School fees,Netbanking,Fees for School,2209.5,0
+2024-01-07,Jan,Shopping,UPI,Transportation,3332.42,1.5
+2024-01-09,Jan,Investment,Netbanking,Investment on Bank,3235.37,0
+2024-01-10,Jan,Shopping,Cash,Movie charge,4094.8,0
+2024-01-10,Jan,School fees,Wallet,Fees for School,4489.82,6.37
+2024-01-10,Jan,School fees,Debit card,Fees for School,3852.5,0.57
+2024-01-12,Jan,Shopping,UPI,Dress purchase,2202.25,7.74
+2024-01-13,Jan,Groceries,Cash,Home essential purchase,1432.99,0
+2024-01-13,Jan,School fees,Debit card,Fees for School,3227.77,1.43
+2024-01-14,Jan,Groceries,Debit card,Fruits & Vegetables purchase,4019.81,4.76
+2024-01-16,Jan,School fees,Wallet,Fees for School,4820.88,4.23
+2024-01-17,Jan,Groceries,Debit card,Home essential purchase,1205.67,4.81
+2024-01-19,Jan,School fees,Debit card,Fees for School,3502.04,8.41
+2024-01-19,Jan,Loan amount,Debit card,Housing loan paid,2347.84,4.66
+2024-01-20,Jan,Groceries,UPI,Fruits & Vegetables purchase,2709.12,4.6
+2024-01-21,Jan,Subscription,Wallet,Subscription for Hotstar,292.81,0.76
+2024-01-22,Jan,Groceries,Debit card,Home essential purchase,4179.9,7
+2024-01-23,Jan,Shopping,Netbanking,Movie charge,2110.85,0
+2024-01-24,Jan,Investment,Debit card,Investment on Bank,289.74,8.37
+2024-01-28,Jan,School fees,Credit card,Fees for School,3088.37,2.41
+2024-01-29,Jan,School fees,UPI,Fees for School,3448.14,0.72
+2024-01-30,Jan,Investment,Cash,Investment on stock,235.21,0
+2024-01-30,Jan,Investment,Wallet,Investment on stock,983.59,3.42
+2024-01-30,Jan,Groceries,Netbanking,Home essential purchase,3685.41,0
+2024-02-01,Feb,Loan amount,Debit card,Housing loan paid,111.72,4.47
+2024-02-01,Feb,Investment,Debit card,Investment on stock,1774.13,7.14
+2024-02-01,Feb,Health & Medicine,Credit card,Regular Medicine Purchase,1253.16,8.26
+2024-02-02,Feb,School fees,Wallet,Fees for School,2230.16,8.23
+2024-02-03,Feb,Loan amount,Credit card,Housing loan paid,1517.86,5.83
+2024-02-04,Feb,Loan amount,Cash,Housing loan paid,2936.97,0
+2024-02-04,Feb,Loan amount,Credit card,Housing loan paid,4676.66,8.16
+2024-02-06,Feb,Loan amount,UPI,Housing loan paid,303.44,8.56
+2024-02-07,Feb,Health & Medicine,Netbanking,Hospitalization,4854.32,0
+2024-02-08,Feb,School fees,Debit card,Fees for School,4345.78,4.6
+2024-02-09,Feb,School fees,Credit card,Fees for School,1227.73,7.25
+2024-02-09,Feb,Shopping,Credit card,Dress purchase,3646.03,7.14
+2024-02-10,Feb,Groceries,Debit card,Home essential purchase,4823.35,6.15
+2024-02-10,Feb,Subscription,UPI,Subscription for Netflix,3545.95,5.18
+2024-02-12,Feb,Loan amount,Debit card,Housing loan paid,1879.46,4.57
+2024-02-12,Feb,Shopping,Credit card,Transportation,836.65,7.68
+2024-02-13,Feb,School fees,Credit card,Fees for School,4592.99,7.3
+2024-02-14,Feb,Subscription,Cash,Subscription for Hotstar,2002.36,0
+2024-02-15,Feb,School fees,Debit card,Fees for School,459.22,7.41
+2024-02-16,Feb,School fees,Cash,Fees for School,4769.16,0
+2024-02-18,Feb,Investment,Credit card,Investment on Bank,3033.53,5.79
+2024-02-18,Feb,School fees,Cash,Fees for School,4528.63,0
+2024-02-19,Feb,Investment,Wallet,Investment on Bank,3592.55,7.82
+2024-02-20,Feb,Loan amount,Credit card,Housing loan paid,1587.87,1.69
+2024-02-21,Feb,Loan amount,Netbanking,Housing loan paid,4445.87,0
+2024-02-21,Feb,Health & Medicine,Credit card,Regular Medicine Purchase,1935.42,4.69
+2024-02-26,Feb,Loan amount,Cash,Housing loan paid,2775.63,0
+2024-02-26,Feb,Loan amount,UPI,Housing loan paid,807.32,1.93
+2024-02-27,Feb,School fees,Netbanking,Fees for School,4722.41,0
+2024-03-01,March,Loan amount,Credit card,Housing loan paid,3426.9,1.02
+2024-03-03,March,School fees,UPI,Fees for School,3059.35,5.01
+2024-03-05,March,Groceries,Credit card,Fruits & Vegetables purchase,2659.51,4.57
+2024-03-05,March,Groceries,Credit card,Fruits & Vegetables purchase,2125.71,8.72
+2024-03-06,March,Subscription,Credit card,Subscription for Netflix,1892.93,7.73
+2024-03-06,March,Groceries,UPI,Fruits & Vegetables purchase,1586.49,4.01
+2024-03-07,March,Shopping,Credit card,Toys/Gifts Purchase,1143.73,8.65
+2024-03-09,March,Investment,Debit card,Investment on Bank,2110.36,7.31
+2024-03-09,March,Loan amount,Debit card,Housing loan paid,2593.82,7.58
+2024-03-10,March,School fees,Debit card,Fees for School,1055.03,2.56
+2024-03-11,March,School fees,Cash,Fees for School,3807.87,0
+2024-03-11,March,Loan amount,Netbanking,Housing loan paid,505.42,0
+2024-03-12,March,Loan amount,Debit card,Housing loan paid,3111.31,0.36
+2024-03-12,March,Health & Medicine,Debit card,Regular Medicine Purchase,865.17,5.18
+2024-03-12,March,Shopping,Wallet,Toys/Gifts Purchase,3918.89,2.45
+2024-03-14,March,Shopping,UPI,Toys/Gifts Purchase,4333.91,3.92
+2024-03-15,March,Shopping,Netbanking,Transportation,1815.45,0
+2024-03-16,March,Groceries,Cash,Fruits & Vegetables purchase,3252.28,0
+2024-03-17,March,Groceries,Wallet,Home essential purchase,3230.41,7.62
+2024-03-19,March,Subscription,Credit card,Subscription for Netflix,2014.34,6.14
+2024-03-21,March,Subscription,Credit card,Subscription for Hotstar,4366.39,8.58
+2024-03-21,March,Subscription,Wallet,Subscription for Hotstar,2600.2,0.54
+2024-03-22,March,Investment,Wallet,Investment on stock,2075.67,3.03
+2024-03-23,March,Shopping,UPI,Dress purchase,3530.74,6.59
+2024-03-24,March,School fees,Debit card,Fees for School,2064.4,1.92
+2024-03-24,March,Health & Medicine,Credit card,Hospitalization,4275.72,1.68
+2024-03-24,March,Loan amount,Wallet,Housing loan paid,3970.39,5.8
+2024-03-28,March,Health & Medicine,Netbanking,Hospitalization,2986.45,0
+2024-03-30,March,Health & Medicine,Wallet,Regular Medicine Purchase,2067.99,7.47
+2024-04-01,April,Health & Medicine,UPI,Hospitalization,3701.69,3.61
+2024-04-03,April,Investment,UPI,Investment on Bank,1590.91,2.98
+2024-04-04,April,Investment,Wallet,Investment on stock,1187.22,1.76
+2024-04-05,April,Subscription,Netbanking,Subscription for Netflix,3796.78,0
+2024-04-06,April,Investment,Netbanking,Investment on Bank,2688.14,0
+2024-04-07,April,Shopping,Wallet,Toys/Gifts Purchase,3674.42,6.62
+2024-04-07,April,Groceries,Wallet,Fruits & Vegetables purchase,2744.52,3.35
+2024-04-09,April,Groceries,Cash,Home essential purchase,631.29,0
+2024-04-10,April,Groceries,Credit card,Home essential purchase,2186.25,3.31
+2024-04-10,April,Groceries,UPI,Fruits & Vegetables purchase,3270.87,7.63
+2024-04-11,April,Shopping,Wallet,Transportation,1760.59,6.64
+2024-04-11,April,School fees,UPI,Fees for School,1895.65,1.2
+2024-04-11,April,Loan amount,Credit card,Housing loan paid,533.44,4.31
+2024-04-13,April,Health & Medicine,Debit card,Hospitalization,897.89,2.13
+2024-04-13,April,Health & Medicine,Cash,Hospitalization,2078.61,0
+2024-04-14,April,Health & Medicine,Netbanking,Hospitalization,3731.52,0
+2024-04-15,April,Groceries,Debit card,Fruits & Vegetables purchase,2032.57,2.61
+2024-04-19,April,Investment,Debit card,Investment on Bank,2931.71,8.18
+2024-04-19,April,Groceries,Credit card,Home essential purchase,430.02,4.44
+2024-04-20,April,Subscription,UPI,Subscription for Netflix,2157.67,5.27
+2024-04-21,April,Health & Medicine,Cash,Regular Medicine Purchase,976.18,0
+2024-04-22,April,Investment,UPI,Investment on Bank,1428.46,3.01
+2024-04-24,April,Loan amount,Wallet,Housing loan paid,139.94,4.24
+2024-04-24,April,Loan amount,Cash,Housing loan paid,2412.02,0
+2024-04-25,April,Subscription,Wallet,Subscription for Hotstar,4184.46,4.43
+2024-04-25,April,Health & Medicine,Credit card,Hospitalization,2306.77,2.89
+2024-04-27,April,Shopping,Credit card,Movie charge,1922.83,4.34
+2024-04-28,April,Groceries,Credit card,Home essential purchase,1711.26,3.61
+2024-04-29,April,Investment,Cash,Investment on stock,403.06,0
+2024-05-01,May,Subscription,Credit card,Subscription for Netflix,4745.24,6.24
+2024-05-02,May,School fees,UPI,Fees for School,3575.13,1.66
+2024-05-03,May,Investment,UPI,Investment on stock,114.23,0.59
+2024-05-03,May,Groceries,UPI,Fruits & Vegetables purchase,1243.98,4.08
+2024-05-05,May,Shopping,Wallet,Transportation,3405.75,2.41
+2024-05-06,May,Subscription,Credit card,Subscription for Hotstar,3847.58,2.07
+2024-05-08,May,Loan amount,Debit card,Housing loan paid,1698.24,6.73
+2024-05-08,May,Shopping,Wallet,Toys/Gifts Purchase,1475.04,1.56
+2024-05-08,May,Groceries,Credit card,Home essential purchase,717.01,4.32
+2024-05-09,May,Investment,Cash,Investment on Bank,3815.3,0
+2024-05-09,May,School fees,Wallet,Fees for School,3044.58,2.34
+2024-05-12,May,Shopping,Cash,Transportation,3816.52,0
+2024-05-12,May,Health & Medicine,Debit card,Hospitalization,2414.47,4.48
+2024-05-16,May,Loan amount,Netbanking,Housing loan paid,2675.05,0
+2024-05-16,May,Investment,Debit card,Investment on stock,2347.18,4.24
+2024-05-18,May,Shopping,Debit card,Dress purchase,3284.78,5.03
+2024-05-20,May,Health & Medicine,Credit card,Regular Medicine Purchase,2246.58,1.64
+2024-05-20,May,School fees,Netbanking,Fees for School,1926.12,0
+2024-05-20,May,Investment,Wallet,Investment on Bank,187.32,3.51
+2024-05-21,May,Loan amount,UPI,Housing loan paid,3855.97,2.82
+2024-05-21,May,Health & Medicine,Credit card,Regular Medicine Purchase,1769.08,3.73
+2024-05-24,May,Investment,Cash,Investment on stock,1687.25,0
+2024-05-25,May,Health & Medicine,Wallet,Hospitalization,2425.07,2.62
+2024-05-26,May,Subscription,Wallet,Subscription for Hotstar,3068.81,1.42
+2024-05-26,May,Groceries,Credit card,Fruits & Vegetables purchase,4917.09,0.8
+2024-05-27,May,Health & Medicine,Debit card,Hospitalization,175.93,3.73
+2024-05-29,May,Health & Medicine,Cash,Hospitalization,4229.53,0
+2024-05-30,May,Investment,Netbanking,Investment on Bank,637.25,0
+2024-05-30,May,Groceries,Wallet,Fruits & Vegetables purchase,3919.63,3.82
+2024-06-01,June,Loan amount,Credit card,Housing loan paid,717.19,2.93
+2024-06-04,June,Shopping,UPI,Movie charge,989.96,0.46
+2024-06-06,June,Investment,Credit card,Investment on stock,4195.55,4.48
+2024-06-07,June,Subscription,Credit card,Subscription for Netflix,3400.87,3.71
+2024-06-08,June,School fees,Netbanking,Fees for School,806.65,0
+2024-06-11,June,Investment,Credit card,Investment on Bank,3611.23,3.4
+2024-06-12,June,Shopping,Wallet,Dress purchase,3515.52,6.7
+2024-06-12,June,Groceries,Credit card,Home essential purchase,2992.91,2.49
+2024-06-12,June,Groceries,UPI,Home essential purchase,4651.54,0.99
+2024-06-13,June,Subscription,Debit card,Subscription for Hotstar,1813.8,4.03
+2024-06-18,June,Groceries,Wallet,Home essential purchase,572.51,5.47
+2024-06-18,June,Groceries,Credit card,Fruits & Vegetables purchase,746.3,2.38
+2024-06-18,June,Shopping,Debit card,Movie charge,4534.65,2.17
+2024-06-20,June,School fees,Credit card,Fees for School,4525.64,1.18
+2024-06-20,June,Groceries,UPI,Home essential purchase,873.03,3.52
+2024-06-20,June,Health & Medicine,Netbanking,Regular Medicine Purchase,4143.15,0
+2024-06-21,June,Loan amount,Netbanking,Housing loan paid,642.37,0
+2024-06-21,June,Investment,Credit card,Investment on stock,3161.99,3.02
+2024-06-21,June,School fees,Netbanking,Fees for School,2015.32,0
+2024-06-22,June,Investment,Cash,Investment on Bank,1032.82,0
+2024-06-22,June,Subscription,Wallet,Subscription for Hotstar,1996.91,5.45
+2024-06-23,June,School fees,Debit card,Fees for School,3366.8,0.57
+2024-06-25,June,Investment,UPI,Investment on stock,2108.27,0.62
+2024-06-25,June,Loan amount,Credit card,Housing loan paid,1034.33,1.98
+2024-06-27,June,Investment,Netbanking,Investment on Bank,2148.32,0
+2024-06-27,June,Groceries,Cash,Fruits & Vegetables purchase,3034.35,0
+2024-06-28,June,Shopping,Cash,Transportation,4993.8,0
+2024-06-29,June,Loan amount,Netbanking,Housing loan paid,3357.46,0
+2024-06-29,June,School fees,Debit card,Fees for School,2345.39,0.23
+2024-07-01,July,Shopping,Credit card,Toys/Gifts Purchase,3614.05,0.95
+2024-07-01,July,Shopping,UPI,Dress purchase,3042.78,0.84
+2024-07-03,July,School fees,Cash,Fees for School,3922.08,0
+2024-07-03,July,Health & Medicine,Credit card,Hospitalization,2099.37,6.37
+2024-07-05,July,Health & Medicine,UPI,Hospitalization,689.45,3.1
+2024-07-06,July,Subscription,Credit card,Subscription for Hotstar,2376.52,6.68
+2024-07-06,July,Investment,Cash,Investment on stock,2455.62,0
+2024-07-06,July,Health & Medicine,Cash,Hospitalization,2490.4,0
+2024-07-06,July,Subscription,Debit card,Subscription for Netflix,4558.55,5.54
+2024-07-06,July,School fees,Netbanking,Fees for School,3698.13,0
+2024-07-08,July,School fees,UPI,Fees for School,3534.74,5.03
+2024-07-12,July,Investment,Cash,Investment on Bank,2466.72,0
+2024-07-12,July,Shopping,Netbanking,Dress purchase,2356,0
+2024-07-12,July,Groceries,Credit card,Fruits & Vegetables purchase,1178.11,0.2
+2024-07-13,July,School fees,UPI,Fees for School,1512.27,1.88
+2024-07-13,July,Loan amount,Wallet,Housing loan paid,517.4,3.9
+2024-07-16,July,School fees,Netbanking,Fees for School,2922.74,0
+2024-07-20,July,Loan amount,Cash,Housing loan paid,4950.13,0
+2024-07-21,July,Health & Medicine,Netbanking,Hospitalization,2355.19,0
+2024-07-22,July,Groceries,Debit card,Home essential purchase,4162.52,1.8
+2024-07-23,July,Loan amount,Netbanking,Housing loan paid,4507.67,0
+2024-07-23,July,Subscription,Wallet,Subscription for Hotstar,3580.16,1.48
+2024-07-24,July,School fees,Credit card,Fees for School,2288.63,4.83
+2024-07-25,July,Shopping,Cash,Dress purchase,2351.9,0
+2024-07-26,July,Groceries,Credit card,Home essential purchase,799.38,4.9
+2024-07-27,July,Shopping,Netbanking,Dress purchase,2747.03,0
+2024-07-28,July,Health & Medicine,Netbanking,Regular Medicine Purchase,1752.56,0
+2024-07-29,July,Subscription,UPI,Subscription for Hotstar,4196.66,3.32
+2024-07-30,July,Investment,Netbanking,Investment on stock,116.87,0
+2024-08-01,Aug,Subscription,UPI,Subscription for Netflix,2401.57,6.76
+2024-08-04,Aug,School fees,Credit card,Fees for School,1787.83,6.55
+2024-08-04,Aug,Investment,UPI,Investment on Bank,2023.69,5.61
+2024-08-06,Aug,Loan amount,Netbanking,Housing loan paid,2653.18,0
+2024-08-07,Aug,Groceries,Credit card,Fruits & Vegetables purchase,4191.68,6.67
+2024-08-11,Aug,Health & Medicine,Debit card,Regular Medicine Purchase,3895.46,0.2
+2024-08-11,Aug,Groceries,Wallet,Fruits & Vegetables purchase,1651.95,0.21
+2024-08-11,Aug,Health & Medicine,Credit card,Regular Medicine Purchase,591.92,5.89
+2024-08-11,Aug,Health & Medicine,Wallet,Regular Medicine Purchase,4091.77,2.1
+2024-08-13,Aug,Loan amount,Cash,Housing loan paid,3191.07,0
+2024-08-13,Aug,Loan amount,Credit card,Housing loan paid,2503.55,2.12
+2024-08-14,Aug,Investment,Debit card,Investment on stock,2234.72,4.46
+2024-08-14,Aug,Investment,Debit card,Investment on Bank,1445.55,1.41
+2024-08-15,Aug,Groceries,Debit card,Fruits & Vegetables purchase,715.63,1.66
+2024-08-16,Aug,Shopping,Netbanking,Dress purchase,2345.9,0
+2024-08-16,Aug,Shopping,Debit card,Movie charge,2687.81,0.59
+2024-08-16,Aug,Groceries,Debit card,Home essential purchase,2766.06,4.38
+2024-08-16,Aug,Health & Medicine,Wallet,Regular Medicine Purchase,3215.43,6.52
+2024-08-17,Aug,Shopping,Wallet,Movie charge,3441.18,6.26
+2024-08-18,Aug,Health & Medicine,Cash,Regular Medicine Purchase,2342.37,0
+2024-08-19,Aug,Subscription,Cash,Subscription for Hotstar,1543.98,0
+2024-08-19,Aug,Health & Medicine,Debit card,Regular Medicine Purchase,4090.53,4
+2024-08-20,Aug,Groceries,Debit card,Home essential purchase,1040.27,6.08
+2024-08-21,Aug,Health & Medicine,UPI,Hospitalization,1286.48,1.78
+2024-08-22,Aug,Investment,Cash,Investment on stock,3648.49,0
+2024-08-23,Aug,School fees,Netbanking,Fees for School,4993.44,0
+2024-08-23,Aug,School fees,Debit card,Fees for School,740.67,2.64
+2024-08-26,Aug,Subscription,Cash,Subscription for Hotstar,757.52,0
+2024-08-30,Aug,Health & Medicine,Wallet,Hospitalization,3825.59,1.48
+2024-09-01,Sep,Health & Medicine,Cash,Hospitalization,3106.29,0
+2024-09-03,Sep,Investment,Debit card,Investment on stock,1640.4,1.49
+2024-09-03,Sep,Shopping,Debit card,Transportation,3925.46,0.95
+2024-09-04,Sep,Health & Medicine,Debit card,Regular Medicine Purchase,383.25,0.89
+2024-09-04,Sep,Investment,Debit card,Investment on stock,4723.92,3.75
+2024-09-04,Sep,Shopping,Credit card,Dress purchase,750.35,6.42
+2024-09-05,Sep,Subscription,UPI,Subscription for Hotstar,1104.74,0.75
+2024-09-06,Sep,Groceries,Wallet,Fruits & Vegetables purchase,3375.41,3.29
+2024-09-07,Sep,Health & Medicine,UPI,Hospitalization,2003.02,3.07
+2024-09-07,Sep,Subscription,UPI,Subscription for Netflix,3025.85,3.17
+2024-09-09,Sep,Investment,Cash,Investment on stock,476.24,0
+2024-09-10,Sep,Health & Medicine,Cash,Hospitalization,1389.25,0
+2024-09-12,Sep,Investment,UPI,Investment on stock,2343.54,4.1
+2024-09-12,Sep,Subscription,Netbanking,Subscription for Netflix,3205.43,0
+2024-09-13,Sep,Groceries,Cash,Fruits & Vegetables purchase,227.73,0
+2024-09-16,Sep,Loan amount,Credit card,Housing loan paid,1716,5.84
+2024-09-17,Sep,Loan amount,Wallet,Housing loan paid,119.05,1.64
+2024-09-17,Sep,Investment,Debit card,Investment on Bank,1791.35,6.52
+2024-09-17,Sep,Subscription,Cash,Subscription for Netflix,2176.93,0
+2024-09-18,Sep,Investment,Netbanking,Investment on stock,2150.4,0
+2024-09-18,Sep,Health & Medicine,Cash,Regular Medicine Purchase,4178.8,0
+2024-09-20,Sep,Groceries,UPI,Home essential purchase,1794.74,6.31
+2024-09-22,Sep,Groceries,Cash,Home essential purchase,2421.98,0
+2024-09-23,Sep,Health & Medicine,Credit card,Regular Medicine Purchase,4140.68,6.6
+2024-09-24,Sep,Investment,Debit card,Investment on Bank,4282.74,0.77
+2024-09-25,Sep,Investment,Netbanking,Investment on stock,2920.3,0
+2024-09-27,Sep,Investment,UPI,Investment on stock,4935.7,3.86
+2024-09-27,Sep,Groceries,Credit card,Fruits & Vegetables purchase,1786.48,6.13
+2024-09-29,Sep,Groceries,Credit card,Home essential purchase,4220.03,3.81
+2024-10-01,Oct,Groceries,Netbanking,Home essential purchase,4804.96,0
+2024-10-01,Oct,Groceries,UPI,Fruits & Vegetables purchase,659.49,0.82
+2024-10-02,Oct,Groceries,Netbanking,Home essential purchase,3654.7,0
+2024-10-03,Oct,Health & Medicine,UPI,Regular Medicine Purchase,4898.39,2.4
+2024-10-06,Oct,School fees,Cash,Fees for School,4215.04,0
+2024-10-06,Oct,Shopping,Cash,Transportation,3027.73,0
+2024-10-09,Oct,Groceries,Credit card,Fruits & Vegetables purchase,2055.58,4.67
+2024-10-09,Oct,Subscription,UPI,Subscription for Netflix,2336.07,6.93
+2024-10-10,Oct,Subscription,Wallet,Subscription for Netflix,3917.46,6.54
+2024-10-10,Oct,Health & Medicine,UPI,Hospitalization,2302.23,0.33
+2024-10-10,Oct,Investment,Wallet,Investment on Bank,752.05,5.98
+2024-10-11,Oct,Investment,Cash,Investment on Bank,692.8,0
+2024-10-11,Oct,Investment,UPI,Investment on Bank,4454.12,3.96
+2024-10-12,Oct,School fees,Wallet,Fees for School,4701.71,0.77
+2024-10-12,Oct,Investment,Debit card,Investment on stock,1738.03,2.28
+2024-10-12,Oct,Shopping,Netbanking,Dress purchase,3688.79,0
+2024-10-14,Oct,Groceries,Cash,Fruits & Vegetables purchase,4206.68,0
+2024-10-14,Oct,Investment,Wallet,Investment on Bank,3167.98,4.96
+2024-10-15,Oct,Loan amount,Netbanking,Housing loan paid,124.91,0
+2024-10-17,Oct,School fees,Cash,Fees for School,544.31,0
+2024-10-18,Oct,Investment,Wallet,Investment on Bank,3532.01,4.61
+2024-10-21,Oct,Loan amount,Cash,Housing loan paid,2577.58,0
+2024-10-21,Oct,School fees,UPI,Fees for School,2613.7,3.55
+2024-10-22,Oct,Investment,Debit card,Investment on stock,3125.6,1.44
+2024-10-24,Oct,Shopping,Cash,Toys/Gifts Purchase,4756.82,0
+2024-10-24,Oct,Subscription,Debit card,Subscription for Netflix,2678.56,4.97
+2024-10-25,Oct,Groceries,UPI,Home essential purchase,263.07,1.86
+2024-10-28,Oct,Groceries,Wallet,Home essential purchase,3881.92,5.83
+2024-10-29,Oct,Shopping,UPI,Dress purchase,3883.11,0.54
+2024-11-04,Nov,Health & Medicine,Cash,Regular Medicine Purchase,3742.11,0
+2024-11-05,Nov,Health & Medicine,Debit card,Hospitalization,4773.89,5.46
+2024-11-06,Nov,Shopping,Wallet,Movie charge,3477.63,6.88
+2024-11-07,Nov,Shopping,Wallet,Dress purchase,2760.02,3.34
+2024-11-09,Nov,Shopping,UPI,Transportation,4536.25,6.73
+2024-11-09,Nov,Groceries,Debit card,Home essential purchase,1259.64,5.22
+2024-11-10,Nov,Shopping,Debit card,Movie charge,2789.52,2.39
+2024-11-10,Nov,Loan amount,UPI,Housing loan paid,528.29,1.35
+2024-11-11,Nov,Shopping,Netbanking,Dress purchase,2904.79,0
+2024-11-12,Nov,Groceries,Credit card,Home essential purchase,3650.14,2.85
+2024-11-13,Nov,Health & Medicine,Debit card,Hospitalization,2186.56,4.03
+2024-11-13,Nov,Investment,Debit card,Investment on Bank,774.19,3.8
+2024-11-14,Nov,Health & Medicine,Wallet,Hospitalization,690.92,1.53
+2024-11-15,Nov,Groceries,UPI,Home essential purchase,1964.2,2.62
+2024-11-15,Nov,Loan amount,Cash,Housing loan paid,2394.89,0
+2024-11-16,Nov,Shopping,Wallet,Movie charge,1591.35,1.85
+2024-11-16,Nov,Shopping,Debit card,Toys/Gifts Purchase,603.95,5.19
+2024-11-18,Nov,Health & Medicine,Wallet,Hospitalization,4249.77,0.43
+2024-11-18,Nov,Investment,Credit card,Investment on Bank,3856.66,3.7
+2024-11-19,Nov,Health & Medicine,Debit card,Hospitalization,313.45,5.68
+2024-11-20,Nov,Health & Medicine,Credit card,Regular Medicine Purchase,1266.36,3.04
+2024-11-22,Nov,Health & Medicine,Cash,Hospitalization,2894.85,0
+2024-11-24,Nov,Groceries,Wallet,Home essential purchase,2405.66,4.36
+2024-11-25,Nov,Groceries,Netbanking,Fruits & Vegetables purchase,3676.61,0
+2024-11-26,Nov,Subscription,Cash,Subscription for Netflix,3305.04,0
+2024-11-27,Nov,Shopping,Cash,Toys/Gifts Purchase,1623.89,0
+2024-11-28,Nov,Health & Medicine,Netbanking,Regular Medicine Purchase,2629.56,0
+2024-11-28,Nov,Loan amount,UPI,Housing loan paid,2691.37,5.06
+2024-11-29,Nov,Shopping,Netbanking,Movie charge,4900.42,0
+2024-11-29,Nov,Shopping,Cash,Toys/Gifts Purchase,2957.14,0
+2024-11-29,Nov,Investment,UPI,Investment on stock,2243.21,1.64
+2024-12-02,Dec,Health & Medicine,Credit card,Regular Medicine Purchase,4214.18,1.41
+2024-12-03,Dec,Investment,Netbanking,Investment on Bank,1173.69,0
+2024-12-04,Dec,School fees,Netbanking,Fees for School,1143.47,0
+2024-12-06,Dec,Subscription,Credit card,Subscription for Netflix,1528.86,3.89
+2024-12-08,Dec,Health & Medicine,Cash,Regular Medicine Purchase,2555.82,0
+2024-12-08,Dec,Investment,Credit card,Investment on stock,960.3,6.14
+2024-12-09,Dec,Shopping,Cash,Transportation,1601.93,0
+2024-12-09,Dec,Shopping,Wallet,Transportation,1741.39,6.58
+2024-12-10,Dec,School fees,Wallet,Fees for School,2812.94,6.84
+2024-12-10,Dec,Groceries,Credit card,Fruits & Vegetables purchase,1789.45,3.12
+2024-12-11,Dec,School fees,Netbanking,Fees for School,887.32,0
+2024-12-12,Dec,Health & Medicine,UPI,Hospitalization,3674.62,6.1
+2024-12-12,Dec,Health & Medicine,Netbanking,Hospitalization,997.58,0
+2024-12-12,Dec,Loan amount,Netbanking,Housing loan paid,1997.93,0
+2024-12-13,Dec,Health & Medicine,Netbanking,Regular Medicine Purchase,3231.42,0
+2024-12-15,Dec,Health & Medicine,Netbanking,Hospitalization,964.32,0
+2024-12-20,Dec,Health & Medicine,UPI,Regular Medicine Purchase,3579.1,1.99
+2024-12-21,Dec,School fees,Credit card,Fees for School,2948.57,5.04
+2024-12-21,Dec,School fees,Cash,Fees for School,1284.26,0
+2024-12-21,Dec,Subscription,UPI,Subscription for Hotstar,4134.36,1.44
+2024-12-21,Dec,Investment,Wallet,Investment on Bank,1065.77,3.45
+2024-12-22,Dec,Subscription,Credit card,Subscription for Hotstar,3136.16,0.41
+2024-12-22,Dec,Investment,Netbanking,Investment on stock,4057.96,0
+2024-12-22,Dec,Groceries,Debit card,Home essential purchase,3247.89,1
+2024-12-24,Dec,Loan amount,UPI,Housing loan paid,2839.47,6.91
+2024-12-25,Dec,Subscription,Debit card,Subscription for Netflix,2429.98,1.19
+2024-12-25,Dec,Investment,Wallet,Investment on stock,1575.19,2.91
+2024-12-26,Dec,Investment,Debit card,Investment on stock,3626.91,1.36
+2024-12-28,Dec,Groceries,Netbanking,Fruits & Vegetables purchase,1011.17,0
+2024-12-28,Dec,Investment,UPI,Investment on Bank,3561.26,5.91
+2024-12-30,Dec,Health & Medicine,Netbanking,Hospitalization,3714.27,0
